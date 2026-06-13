@@ -30,7 +30,6 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 
 def embed(words):
         embeddings = model.encode(words).tolist()
-        print(embeddings)
         ids= [str(i) for i in range(len(words))]
 
         collection.add(
