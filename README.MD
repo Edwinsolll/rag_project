@@ -20,18 +20,25 @@ A document-based question-answering system that uses Retrieval-Augmented Generat
 
 PDF
 ↓
+
 Text Extraction
 ↓
+
 Chunking
 ↓
+
 Embeddings
 ↓
+
 ChromaDB
 ↓
+
 Relevant Context
 ↓
+
 Groq / Llama
 ↓
+
 Generated Answer
 
 ## Backend
