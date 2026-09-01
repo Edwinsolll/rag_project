@@ -18,35 +18,8 @@ A document-based question-answering system that uses Retrieval-Augmented Generat
 
 ## Architecture
 
-PDF
 
-↓
-
-Text Extraction
-
-↓
-
-Chunking
-
-↓
-
-Embeddings
-
-↓
-
-ChromaDB
-
-↓
-
-Relevant Context
-
-↓
-
-Groq / Llama
-
-↓
-
-Generated Answer
+![RAG System Architecture](architecture.png)
 
 ## Backend
 
